@@ -128,7 +128,7 @@ If you think you've found a bug, first read the [Help I've Found a Bug](https://
 
 Please don't create GitHub issues for security issues. Instead, please send an email to `security@freecodecamp.org` and we'll look into it immediately.
 
-### Contributing
+#### Contributing
 
 #### [Please follow these steps to contribute.](CONTRIBUTING.md)
 
